@@ -2,9 +2,7 @@
 
 ## Overview
 + Description: A utility library for computational pathology workflows.
-+ Main Features:
-
-`utils_comppath` provides utilities for computational pathology workflows, including integration with QuPath in Minerva using Chimera Desktop.
++ Main Features: provides utilities for computational pathology workflows, including integration with QuPath in Minerva using Chimera Desktop.
 
 ## QuPath in Minerva
 + Description: Use QuPath in Minerva with Chimera Desktop in OnDemand
@@ -29,4 +27,6 @@
 2. Add images to the project.
 3. Add annotations to the images.
 
-+ It's easier to set up and share project with Pathologists
+#### Import slides with a path list: TBA
+#### Import annotations into every slide
+
