@@ -27,6 +27,6 @@
 2. Add images to the project.
 3. Add annotations to the images.
 
-#### Import slides with a path list: TBA
-#### Import annotations into every slide
+- [ ] Import slides with a path list: TBA
+- [ ] Import annotations into every slide
 
